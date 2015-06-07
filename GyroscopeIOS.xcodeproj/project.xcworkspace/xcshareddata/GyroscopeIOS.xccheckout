@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>05A24948-8E1D-440A-973A-7CC52EF08741</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GyroscopeIOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>221020E29E4A7F819BD9E8849A56A31BFFDE20A6</key>
+		<string>https://github.com/O--Sher/SPZCourseWork.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GyroscopeIOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>221020E29E4A7F819BD9E8849A56A31BFFDE20A6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/O--Sher/SPZCourseWork.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>221020E29E4A7F819BD9E8849A56A31BFFDE20A6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>221020E29E4A7F819BD9E8849A56A31BFFDE20A6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SPZCourseWork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
